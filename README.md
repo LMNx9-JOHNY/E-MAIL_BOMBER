@@ -10,4 +10,4 @@ Its a tool that, you can spam any mail - Unlimited &amp; Fast🔥 E-mail Bomber 
     chmod +x *
     python MAIL-X_v1.0.py
 
-![JOIN TELEGRAM](https://t.me/DARK_TEAM_LMNx9)
+# JOIN TELEGRAM https://t.me/DARK_TEAM_LMNx9
